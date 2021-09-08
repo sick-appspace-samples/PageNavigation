@@ -1,5 +1,6 @@
 ## PageNavigation
-Adapting the page navigation in the user interface including page names and categories . 
+Adapting the page navigation in the user interface including page names and categories.
+ 
 ### Description
 This sample shows how to setup the page navigation for a application specific user interface. 
 The navigation is specified in the file pages/pages/navigation.json. 
